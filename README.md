@@ -20,9 +20,8 @@ development principles.
 
 ## ⚙️ tech stack
 
-- 💻 languages — Java , C , SQL , R , Python 
-- 🌐 web — HTML , CSS , JavaScript  
-- ⚛️ frontend — React (learning)  
+- 💻 languages —  C , SQL , R , Python 
+- 🌐 web — HTML , CSS , JavaScript    
 - 🛠️ tools — Git . VS Code , Microsoft Power BI , Figma , R Studio
 
 ---
