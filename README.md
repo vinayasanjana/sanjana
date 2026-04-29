@@ -42,3 +42,10 @@ real-time ordering.
 - learning and improving my development skills  
 - exploring creative and media-related tech fields  
 - building projects step by step  
+
+---
+
+## 📫 connect
+
+- **[Email Address]** - sanjanadasari2006@gmail.com
+- **[LinkedIn]** - https://www.linkedin.com/in/sanjana-dasari-1a82323b5/
